@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Application/Application.csproj" />
+  <Project Path="Domain/Domain.csproj" />
+  <Project Path="Infrastructure/Infrastructure.csproj" />
+  <Project Path="Api/Api.csproj" />
+  <Project Path="Worker/BackgroundWorker.csproj" Id="5fe7a3d2-1e3a-4113-931f-1e0bb6cdbb96" />
+</Solution>
